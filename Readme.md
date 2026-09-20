@@ -5,26 +5,6 @@ This repo contains my learning journey with Java, covering core concepts, Object
 
 ---
 
-## 📚 Topics Covered
-
-- ✅ Java Basics
-- ✅ Variables & Data Types
-- ✅ Operators & Conditions
-- ✅ Loops
-- ✅ Arrays & Strings
-- ✅ Methods & Functions
-- ✅ Object-Oriented Programming (OOP)
-- ✅ Classes & Objects
-- ✅ Inheritance
-- ✅ Polymorphism
-- ✅ Encapsulation
-- ✅ Abstraction
-- ✅ Exception Handling
-- ✅ Collections
-- ✅ Practice Problems
-
----
-
 ## 🔀 Learning Journey
 
 ```mermaid
@@ -77,6 +57,26 @@ flowchart TD
 - 🧠 Practice and problem-solving
 - 🏗️ Object-Oriented Programming examples
 - 📈 Regularly updated with new concepts and programs
+
+
+---
+## 📚 Topics Covered
+
+- ✅ Java Basics
+- ✅ Variables & Data Types
+- ✅ Operators & Conditions
+- ✅ Loops
+- ✅ Arrays & Strings
+- ✅ Methods & Functions
+- ✅ Object-Oriented Programming (OOP)
+- ✅ Classes & Objects
+- ✅ Inheritance
+- ✅ Polymorphism
+- ✅ Encapsulation
+- ✅ Abstraction
+- ✅ Exception Handling
+- ✅ Collections
+- ✅ Practice Problems
 
 ---
 
