@@ -5,7 +5,7 @@ This repo contains my learning journey with Java, covering core concepts, Object
 
 ---
 
-## 🔀 Learning Journey
+## 🔀 Learning Journey 
 
 ```mermaid
 flowchart TD
