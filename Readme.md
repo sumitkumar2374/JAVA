@@ -1,8 +1,3 @@
-# Here are the commits list for contribution graph tree 
-
-- 1st/2nd commit
-- 3rd commit list is check
-
 # ☕ Java Learning Journey
 
 Welcome to my Java repository!  
