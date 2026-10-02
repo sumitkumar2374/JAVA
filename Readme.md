@@ -1,7 +1,7 @@
 # ☕ Java Learning Journey
 
-Welcome to my Java repository!  
-This repo contains my learning journey with Java, covering core concepts, Object-Oriented Programming, practice programs, and problem-solving.
+Welcome to my ```Java repository```!  
+This repo contains my learning journey with ```Java```, covering core concepts, Object-Oriented Programming, practice programs, and problem-solving.
 
 ---
 
@@ -144,5 +144,7 @@ GitHub: [@sumitkumar2374](https://github.com/sumitkumar2374)
 ---
 
 > 💡 *“Consistency beats talent when talent doesn’t work hard.”*
+
+
 
  
