@@ -131,7 +131,7 @@ This is a personal learning repository, but suggestions and feedback are always 
 
 ## ⭐ Support
 
-If you find this repository helpful, consider giving it a ⭐ on GitHub!
+If you find this ```repository helpful```, consider giving it a ⭐ on ```GitHub```!
 
 ---
 
