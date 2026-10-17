@@ -1,6 +1,7 @@
 # Here are the commit lists for contribution graph 
 
-- 1st/2nd commit list 
+- 1st/2nd commit list
+- 3rd commit list is the attaching some imp file 
 
 # ☕ Java Learning Journey
 
