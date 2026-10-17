@@ -1,3 +1,5 @@
+# Here are the commit lists for contribution graph 
+
 # ☕ Java Learning Journey
 
 Welcome to my ```Java repository```!  
