@@ -1,7 +1,7 @@
 # ☕ Java Learning Journey
 
 Welcome to my ```Java repository```!  
-This repo contains my learning journey with ```Java```, covering core concepts, Object-Oriented Programming, practice programs, and problem-solving.
+This repo contains my learning journey with ```Java```, covering core concepts, ```Object-Oriented Programming```, practice programs, and ```problem-solving```.
 
 ---
 
