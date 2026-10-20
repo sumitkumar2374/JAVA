@@ -54,7 +54,7 @@ flowchart TD
 
 - 🧑‍💻 Beginner-friendly Java programs
 - 📖 Concept-based learning
-- 🧠 Practice and problem-solving
+- 🧠 Practice and ```problem-solving```
 - 🏗️ Object-Oriented Programming examples
 - 📈 Regularly updated with new concepts and programs
 
@@ -90,7 +90,7 @@ flowchart TD
 
 ## 🎯 Goal
 
-My goal is to build a strong foundation in Java by:
+My goal is to build a ```strong foundation``` in Java by:
 
 - Practicing regularly
 - Understanding core concepts
@@ -119,13 +119,13 @@ Java/
 
 ## 📈 Progress
 
-🚧 Currently learning and updating this repository regularly.
+🚧 Currently learning and updating this `repository` regularly.
 
 ---
 
 ## 🤝 Contributions
 
-This is a personal learning repository, but suggestions and feedback are always welcome!
+This is a personal `learning repository`, but suggestions and feedback are always welcome!
 
 ---
 
@@ -143,7 +143,7 @@ GitHub: [@sumitkumar2374](https://github.com/sumitkumar2374)
 
 ---
 
-> 💡 *“Consistency beats talent when talent doesn’t work hard.”*
+> 💡 *“Consistency `beats` talent when talent doesn’t work hard.”*
 
 
 
